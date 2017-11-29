@@ -1,6 +1,6 @@
 # cornerstone-vuejs-poc
 
-> A Vue.js project
+We are regularly asked if and how cornerstone can be used with modern javascript frameworks. This repository is to serve as very quick/dirty example of how one might accomplish an integration with [VueJs](https://vuejs.org/). It leverages the VueJs community supported [webpack starter template](https://github.com/vuejs-templates/webpack) for initial scaffolding.
 
 ## Build Setup
 
