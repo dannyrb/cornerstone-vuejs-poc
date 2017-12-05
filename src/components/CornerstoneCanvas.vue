@@ -54,7 +54,7 @@ export default {
   name: 'CornerstoneCanvas',
   data () {
     return {
-      baseUrl: 'http://localhost:8080',
+      baseUrl: 'https://dannyrb.github.io/cornerstone-vuejs-poc',
       // Pass in as a property, or use a computed property that looks at Vuex
       // Then... Watch for changes. On change, load the new series
       exampleStudyImageIds: [
